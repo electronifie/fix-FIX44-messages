@@ -12,6 +12,6 @@
     "invert-obj": "^1.0.0"
   },
   "devDependencies": {
-    "quickfix-codegen": "0.0.0"
+    "quickfix-codegen": "0.0.1"
   }
 }
