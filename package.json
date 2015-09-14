@@ -1,6 +1,6 @@
 {
-  "name": "fix-FIX44-messages",
-  "version": "0.0.1",
+  "name": "fix-44-messages",
+  "version": "0.0.2",
   "description": "collection of generate message classes matching fix spec FIX50SP2_EP194",
   "main": "index.js",
   "scripts": {
